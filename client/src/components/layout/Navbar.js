@@ -22,6 +22,11 @@ class Navbar extends Component {
             Dashboard
           </Link>
         </li>
+        <li>
+        <Link className="nav-link" to="/feed">
+            Post Feed
+          </Link>
+        </li>
         <li className="nav-item">
           <a
             href=""
